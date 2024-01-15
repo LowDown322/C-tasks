@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "uop52fYn0Sxtf1JROYEVsHvShaazmzkiGColScoLD0+avuZBql6nPAi/CTfJu+Zcs+6wcIR2jQ4v/F37rj8aKQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Johannes\\Desktop\\Csharp\\Json 6 task\\Json 6 task\\Json 6 task.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Johannes\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

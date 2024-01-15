@@ -1,0 +1,17 @@
+C:\Users\Johannes\Desktop\Csharp\Json 6 task\Json 6 task\bin\Debug\net7.0\Json 6 task.exe
+C:\Users\Johannes\Desktop\Csharp\Json 6 task\Json 6 task\bin\Debug\net7.0\Json 6 task.deps.json
+C:\Users\Johannes\Desktop\Csharp\Json 6 task\Json 6 task\bin\Debug\net7.0\Json 6 task.runtimeconfig.json
+C:\Users\Johannes\Desktop\Csharp\Json 6 task\Json 6 task\bin\Debug\net7.0\Json 6 task.dll
+C:\Users\Johannes\Desktop\Csharp\Json 6 task\Json 6 task\bin\Debug\net7.0\Json 6 task.pdb
+C:\Users\Johannes\Desktop\Csharp\Json 6 task\Json 6 task\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Johannes\Desktop\Csharp\Json 6 task\Json 6 task\obj\Debug\net7.0\Json 6 task.csproj.AssemblyReference.cache
+C:\Users\Johannes\Desktop\Csharp\Json 6 task\Json 6 task\obj\Debug\net7.0\Json 6 task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Johannes\Desktop\Csharp\Json 6 task\Json 6 task\obj\Debug\net7.0\Json 6 task.AssemblyInfoInputs.cache
+C:\Users\Johannes\Desktop\Csharp\Json 6 task\Json 6 task\obj\Debug\net7.0\Json 6 task.AssemblyInfo.cs
+C:\Users\Johannes\Desktop\Csharp\Json 6 task\Json 6 task\obj\Debug\net7.0\Json 6 task.csproj.CoreCompileInputs.cache
+C:\Users\Johannes\Desktop\Csharp\Json 6 task\Json 6 task\obj\Debug\net7.0\Json 6 task.csproj.CopyComplete
+C:\Users\Johannes\Desktop\Csharp\Json 6 task\Json 6 task\obj\Debug\net7.0\Json 6 task.dll
+C:\Users\Johannes\Desktop\Csharp\Json 6 task\Json 6 task\obj\Debug\net7.0\refint\Json 6 task.dll
+C:\Users\Johannes\Desktop\Csharp\Json 6 task\Json 6 task\obj\Debug\net7.0\Json 6 task.pdb
+C:\Users\Johannes\Desktop\Csharp\Json 6 task\Json 6 task\obj\Debug\net7.0\Json 6 task.genruntimeconfig.cache
+C:\Users\Johannes\Desktop\Csharp\Json 6 task\Json 6 task\obj\Debug\net7.0\ref\Json 6 task.dll
